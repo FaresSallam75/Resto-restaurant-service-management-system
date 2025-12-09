@@ -3,10 +3,65 @@
 🍽️ Resto – Restaurant Management System (POS + Admin Panel) 
 
 A modern, full-featured Restaurant Management System built with Flutter and Dart, designed to streamline restaurant operations such as order management, table handling, billing, and kitchen communication.
+
 ⚠️ Note: This project is currently in its first release (v1) and is actively under development.
 
-## 🧩 Screenshots
 
+
+🚀 Features
+
+🧾 Point of Sale (POS) System
+
+🍔 Dynamic Menu & Categories
+
+🪑 Table & Floor Management
+
+🛒 Cart & Order Tracking
+
+🧾 Billing & Voucher System
+
+👨‍🍳 Real-time Kitchen Communication
+
+👥 User & Role Management
+
+📊 Dashboard Analytics
+
+🤖 AI Chatbot Integration
+
+📷 Image Upload Support
+
+💾 Local SQLite Storage (Offline-First)
+
+🤖 AI Chatbot Integration
+
+📷 Image Upload Support
+
+💾 Local SQLite Storage (Offline-First) 
+
+
+🏗 Project Status
+
+Version: v1 (In Progress)
+
+✅ Core features implemented
+🚧 UI/UX improvements in progress
+🚧 Performance optimizations ongoing
+🚧 More integrations coming soon 
+
+🛠 Tech Stack
+
+Frontend: Flutter (Dart)
+
+Backend: REST APIs
+
+Database: SQLite (Local Storage)
+
+State Management: Provider / SetState
+
+Networking: Dio 
+
+
+📱 Screenshots  
    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="screenshots/1.png" width="400" alt="Home Page">
   <img src="screenshots/2.png" width="400" alt="Bouquet Page">
@@ -21,25 +76,39 @@ A modern, full-featured Restaurant Management System built with Flutter and Dart
   <img src="screenshots/11.png" width="400" alt="Room Page">
   <img src="screenshots/12.png" width="400" alt="Room Page">
   <img src="screenshots/13.png" width="400" alt="Room Page">
-  
-  </div>
+  </div> 
 
-  🚀 Features
 
-🧾 Point of Sale (POS) System
-🍔 Dynamic Menu & Categories
-🪑 Table & Floor Management
-🛒 Cart & Order Tracking
-🧾 Billing & Voucher System
+  🗂 Project Structure 
+  lib/
+ ├── models/
+ ├── services/
+ ├── ui/
+ ├── database/
+ └── utils/ 
 
-👨‍🍳 Real-time Kitchen Communication
+ 🌐 API Integration
 
-👥 User & Role Management
+The system integrates with REST APIs for:
 
-📊 Dashboard Analytics
+Authentication
 
-🤖 AI Chatbot Integration
+Products & Categories
 
-📷 Image Upload Support
+Tables & Floors
 
-💾 Local SQLite Storage (Offline-First)
+Orders & Vouchers
+
+Users Management 
+
+📌 Roadmap
+
+🔄 Real-time WebSocket kitchen updates
+
+🔐 Better role-based permissions
+
+🌍 Multi-language support
+
+📱 Mobile optimization
+
+🧾 Receipt printer integration
