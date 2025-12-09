@@ -1,6 +1,7 @@
  
 
-🍽️ Resto – Restaurant Management System (POS + Admin Panel)
+🍽️ Resto – Restaurant Management System (POS + Admin Panel) 
+
 A modern, full-featured Restaurant Management System built with Flutter and Dart, designed to streamline restaurant operations such as order management, table handling, billing, and kitchen communication.
 ⚠️ Note: This project is currently in its first release (v1) and is actively under development.
 
