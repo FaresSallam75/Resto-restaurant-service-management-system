@@ -6,7 +6,7 @@ A modern, full-featured Restaurant Management System built with Flutter and Dart
 
 ⚠️ Note: This project is currently in its first release (v1) and is actively under development.
 
-
+-----------------------------------------------------------------------
 
 🚀 Features
 
@@ -38,6 +38,7 @@ A modern, full-featured Restaurant Management System built with Flutter and Dart
 
 💾 Local SQLite Storage (Offline-First) 
 
+----------------------------------------------------------------------- 
 
 🏗 Project Status
 
@@ -47,6 +48,7 @@ Version: v1 (In Progress)
 🚧 UI/UX improvements in progress
 🚧 Performance optimizations ongoing
 🚧 More integrations coming soon 
+-----------------------------------------------------------------------
 
 🛠 Tech Stack
 
@@ -60,7 +62,7 @@ State Management: Provider / SetState
 
 Networking: Dio 
 
-
+-----------------------------------------------------------------------
 📱 Screenshots  
    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="screenshots/1.png" width="400" alt="Home Page">
@@ -78,7 +80,7 @@ Networking: Dio
   <img src="screenshots/13.png" width="400" alt="Room Page">
   </div> 
 
-
+-----------------------------------------------------------------------
   🗂 Project Structure 
   lib/
  ├── models/
@@ -87,6 +89,7 @@ Networking: Dio
  ├── database/
  └── utils/ 
 
+-----------------------------------------------------------------------
  🌐 API Integration
 
 The system integrates with REST APIs for:
@@ -101,6 +104,7 @@ Orders & Vouchers
 
 Users Management 
 
+-----------------------------------------------------------------------
 📌 Roadmap
 
 🔄 Real-time WebSocket kitchen updates
